@@ -11,6 +11,7 @@ Michael Pressler GitHub setup
 **This assignment was complete in Business Analytics Professional Prep. course to create a sample repository.**
 
 #### How To Run Program
+---
 *Michael-s_Repository/
 └── 
     │── README.md
